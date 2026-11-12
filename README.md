@@ -21,7 +21,7 @@ My technical stack includes JavaScript (ES6+), TypeScript, React.js, Next.js, Ta
 | **Performance & Workflow** | Clean Component Architecture, Core Web Vitals Optimization, Git/GitHub | 
 
 
-## 🤝 Work With Me (Agency Overflow & Remote Roles)
+## 🤝 Work With Me (Freelance Projects & Remote Roles)
 
 I'm currently exploring remote opportunities with creative and digital agencies where I can contribute to client websites, landing pages, and web development projects while collaborating with your development team.
 
