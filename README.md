@@ -4,9 +4,11 @@ I'm Zaheem Qureshi, a Frontend Developer specializing in React.js and Next.js. I
 
 My technical stack includes JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS, and shadcn/ui. I also work with Framer Motion and GSAP to create engaging animations and interactive web experiences.
 
-### 🌐 View My Full Live Portfolio → [zaheemqureshi.vercel.app](https://zaheemqureshi.vercel.app/)
+
+### 🌐 Live Portfolio Website → [zaheemqureshi.vercel.app](https://zaheemqureshi.vercel.app/)
 
 📫 **Email:** [zaheemqureshi007@gmail.com](mailto:zaheemqureshi007@gmail.com) | 🔗 **LinkedIn:** [Muhammad Zaheem Qureshi](https://www.linkedin.com/in/muhammad-zaheem-qureshi)
+
 
 ## 🛠️ Core Technical Stack
 
@@ -17,6 +19,7 @@ My technical stack includes JavaScript (ES6+), TypeScript, React.js, Next.js, Ta
 | **Styling & UI Systems** | Tailwind CSS, shadcn/ui, Responsive & Mobile-First Design | 
 | **Animation & Interaction** | GSAP (GreenSock), Framer Motion, Micro-Interactions | 
 | **Performance & Workflow** | Clean Component Architecture, Core Web Vitals Optimization, Git/GitHub | 
+
 
 ## 🤝 Work With Me (Agency Overflow & Remote Roles)
 
