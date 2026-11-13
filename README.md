@@ -18,6 +18,7 @@ My technical stack includes JavaScript (ES6+), TypeScript, React.js, Next.js, Ta
 | **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3 | 
 | **Styling & UI Systems** | Tailwind CSS, shadcn/ui, Responsive & Mobile-First Design | 
 | **Animation & Interaction** | GSAP (GreenSock), Framer Motion, Micro-Interactions | 
+| **AI-Accelerated Development** | Cursor, Windsurf, v0 by Vercel, Claude Code, Codex, Antigravity, Bolt & Lovable | 
 | **Performance & Workflow** | Clean Component Architecture, Core Web Vitals Optimization, Git/GitHub | 
 
 
